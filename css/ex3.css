@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+* {
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    font-family:"Open Sans", sans-serif;
+    background-image:url("../c03-css-stu/img/cover.jpg");
+    background-repeat:no-repeat;
+background-size: 100% 300px;
+}
+
+.avarta { 
+    width:200px;
+    height:200px;
+    border:10px solid white;
+    margin-top:150px;
+    margin-left:100px;
+}
+.cover{
+    position: absolute;
+        color:white;
+        top:200px;
+        left:350px;
+}
